@@ -1,0 +1,4 @@
+
+hello sunmin!
+This is vim practice!
+
